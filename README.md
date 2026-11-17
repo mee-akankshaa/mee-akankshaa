@@ -4,7 +4,7 @@
 
 I build web applications end to end, from the database schema to the screen a user actually touches. I'm a year into my career and I treat that as an advantage: I'm still curious about why things work, and I care about getting the fundamentals right before adding anything clever.
 
-I also work with AI tools every day, mainly Claude Code, and I use them to build faster while still reading, testing and questioning every line they produce.
+I also work with AI tools every day, mainly Claude Code, antigravity , ollama and different ai models , and I use them to build faster while still reading, testing and questioning every line they produce.
 
 ## What I work with
 
