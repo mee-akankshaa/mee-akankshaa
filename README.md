@@ -26,6 +26,14 @@ These are demo rebuilds of systems I worked on, redone from scratch with invente
 | [acme-lead-crm](https://github.com/mee-akankshaa/acme-lead-crm) | Sales lead tool with a daily call queue, automatic follow-ups, payment ledger and reports | Python, vanilla JS, SQLite |
 | [acme-helpdesk](https://github.com/mee-akankshaa/acme-helpdesk) | Ticketing system with a public form, a hardened REST API and a PostgreSQL store | TypeScript, Fastify, Prisma, PostgreSQL |
 
+### More projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [portfolio](https://github.com/mee-akankshaa/portfolio) ([live](https://mee-akankshaa.github.io/portfolio/)) | My animated personal portfolio site | HTML, CSS, vanilla JavaScript |
+| [nextjs-todo-app](https://github.com/mee-akankshaa/nextjs-todo-app) | To-do app | Next.js, React, TypeScript |
+| [genz-clothing-store](https://github.com/mee-akankshaa/genz-clothing-store) | Gen Z clothing e-commerce store front-end | Next.js, React, TypeScript |
+
 ## How I work
 
 - Get the data model right first, then build on top of it.
